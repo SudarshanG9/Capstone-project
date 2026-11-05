@@ -1,0 +1,19 @@
+# Virtual environment
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# Local datasets
+data/raw/
+data/splits/
+
+# Generated model data and results
+processed/
+runs/
+
+# Editor and operating system
+.vscode/
+.DS_Store

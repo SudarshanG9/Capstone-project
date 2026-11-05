@@ -1,0 +1,2 @@
+model,accuracy,macro_f1,log_loss,train_examples,test_examples,random_state,deduplicated
+TF-IDF + Logistic Regression (deduplicated),0.7850467289719626,0.7862199313651839,0.7991400433187272,1711,428,42,True

@@ -1,0 +1,12 @@
+Metadata-Version: 2.4
+Name: rumor-graph
+Version: 0.1.0
+Summary: Graph-based misinformation detection research
+Requires-Python: >=3.11
+Requires-Dist: torch
+Requires-Dist: torch-geometric
+Requires-Dist: numpy
+Requires-Dist: pandas
+Requires-Dist: scikit-learn
+Provides-Extra: dev
+Requires-Dist: pytest; extra == "dev"
